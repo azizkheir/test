@@ -1,0 +1,21 @@
+{
+  "keywords": [],
+  "main": "index.js",
+  "name": "gb74w",
+  "description": null,
+  "version": "0.0.0",
+  "dependencies": {
+    "react-parallax": "latest",
+    "react-dom": "15.5.3",
+    "react": "15.5.3"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
